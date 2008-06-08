@@ -1,0 +1,10 @@
+This file lists the portability status of this client.
+Send updates to jrimmer@irth.net.
+
+Building
+- Visual Studio 2005 Express BETA 1
+- Visual Studio 2003
+
+Executing
+- Microsoft .NET Framework v2.0.40607 BETA
+- Microsoft .NET Framework v1.1sp1

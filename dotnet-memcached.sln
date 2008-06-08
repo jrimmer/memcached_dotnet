@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "red5.memcached", "red5.memcached\red5.memcached.csproj", "{B12284F3-572B-4F4C-97EA-8340436F04DF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "red5.memcached.test", "red5.memcached.test\red5.memcached.test.csproj", "{7C1BB831-58A8-42C1-A7A4-B1D995EA8C36}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B12284F3-572B-4F4C-97EA-8340436F04DF}.Debug.ActiveCfg = Debug|.NET
+		{B12284F3-572B-4F4C-97EA-8340436F04DF}.Debug.Build.0 = Debug|.NET
+		{B12284F3-572B-4F4C-97EA-8340436F04DF}.Release.ActiveCfg = Release|.NET
+		{B12284F3-572B-4F4C-97EA-8340436F04DF}.Release.Build.0 = Release|.NET
+		{7C1BB831-58A8-42C1-A7A4-B1D995EA8C36}.Debug.ActiveCfg = Debug|.NET
+		{7C1BB831-58A8-42C1-A7A4-B1D995EA8C36}.Debug.Build.0 = Debug|.NET
+		{7C1BB831-58A8-42C1-A7A4-B1D995EA8C36}.Release.ActiveCfg = Release|.NET
+		{7C1BB831-58A8-42C1-A7A4-B1D995EA8C36}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

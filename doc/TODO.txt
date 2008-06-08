@@ -1,0 +1,9 @@
+TODO
+
+- Complete API documentation
+- Optimize
+- Add NUnit test suite
+- Move logging to log4net
+- Durability testing
+- Test w/Mono
+- Fix logging so single messages aren't distributed across multiple log statements
