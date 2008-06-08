@@ -1,0 +1,7 @@
+TODO
+
+- Complete API documentation
+- Optimize
+- Add NUnit test suite
+- Durability testing
+- Test w/Mono

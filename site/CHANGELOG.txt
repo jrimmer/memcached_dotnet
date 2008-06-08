@@ -1,0 +1,17 @@
+version 0.9.2 - 26 Jan 2005
+	- Replaced built in logging with log4net (and bundled)
+	- Grouped log statements
+	- Added log level active check before logging
+	- Cleaned up test timing
+	- Added "no hashing if only a single server" optimization
+	- Set maintenance thread to background
+	- Renamed project to dotnet-memcached
+version 0.9.1 - 09 Jan 2005
+	- Added support for .NET v1.1
+	- Removed serialization override 
+	- Added option to have exceptions rather than silently failing when adding, finding, etc. (Enabled via "Exceptions" define)
+	- Renamed methods to match .NET/CLR coding standards
+	- Refactored creation of server commands
+Version 0.9 - 06 Jan 2005
+	- Initial Release
+	- Reflects functionality of Java client v1.1 - http://www.whalin.com/memcached/
